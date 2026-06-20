@@ -160,29 +160,4 @@ For the latest version, you can also clone the repo and build the source
     $ cd surprise
     $ pip install .
 
-License and reference
----------------------
 
-This project is licensed under the [BSD
-3-Clause](https://opensource.org/licenses/BSD-3-Clause) license, so it can be
-used for pretty much everything, including commercial applications.
-
-I'd love to know how Surprise is useful to you. Please don't hesitate to open
-an issue and describe how you use it!
-
-Please make sure to cite the
-[paper](https://joss.theoj.org/papers/10.21105/joss.02174) if you use
-Surprise for your research:
-
-    @article{Hug2020,
-      doi = {10.21105/joss.02174},
-      url = {https://doi.org/10.21105/joss.02174},
-      year = {2020},
-      publisher = {The Open Journal},
-      volume = {5},
-      number = {52},
-      pages = {2174},
-      author = {Nicolas Hug},
-      title = {Surprise: A Python library for recommender systems},
-      journal = {Journal of Open Source Software}
-    }
